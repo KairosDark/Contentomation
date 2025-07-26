@@ -1,0 +1,6 @@
+ddgs>=9.4.3  # For web searches
+xai-sdk  # xAI Grok API SDK
+python-dotenv==1.0.1  # For loading .env files
+flask==3.0.3  # Web framework
+gunicorn==23.0.0  # Production WSGI server
+requests==2.32.3  # For outbound HTTP calls (e.g., to Zapier webhooks)
